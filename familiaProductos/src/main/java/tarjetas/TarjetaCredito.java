@@ -1,3 +1,5 @@
+package tarjetas;
+
 public class TarjetaCredito {
     Double costo;
     Float porcentaje;
