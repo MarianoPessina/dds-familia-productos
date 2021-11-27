@@ -1,0 +1,2 @@
+public class la10 {
+}
